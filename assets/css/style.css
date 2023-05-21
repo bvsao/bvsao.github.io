@@ -17,6 +17,7 @@ body {
 }
 
 .header-container {
+  background-color: #122337;
   display: flex;
   align-items: center;
 }
