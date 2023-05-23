@@ -20,11 +20,12 @@ body, html {
 
 a:link {
   text-decoration: none;
-  color: #122337
+  color: #122337;
 }
 
 a:visited {
   text-decoration: none;
+  color: #122337;
 }
 
 a:hover {
@@ -127,7 +128,6 @@ section.hero {
 .rightcolumn {
   float: right;
   width: 30%;
-  padding: 20px
 }
 
 @media screen and (max-width: 800px) {
